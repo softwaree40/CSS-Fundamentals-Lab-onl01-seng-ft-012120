@@ -2,8 +2,7 @@ header{
   text-align: center;
 }
 img {
-  margin-left:auto;
-  margin-right:auto;
+  margin:auto;
   display:block;
   width: 50%;
   
